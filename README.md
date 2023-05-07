@@ -35,3 +35,15 @@ Animated Scatterplot - Lifeexpectancy vs fertility rate with size of the scatter
 ## Conclusion
 
 This project demonstrates how Python and its libraries can be used to extract, clean, and visualize data. The scatter plot provides insights into the relationship between the fertility rate and life expectancy, and the animation shows the change in population over the years. With further development, this project can be extended to include additional data and features.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+    Fork the repository.
+    Create a new branch with your changes.
+    Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
