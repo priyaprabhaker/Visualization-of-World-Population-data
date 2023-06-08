@@ -4,11 +4,10 @@ This project aims to visualize the world population data from the year 1800 to 2
 Project Overview
 
 The project uses Python and its libraries to extract, manipulate and visualize data. The following steps were taken to complete the project:
-
-    Data extraction from https://www.gapminder.org/data/
-    Data cleaning and processing using pandas
-    Data visualization using seaborn
-    Animation of the scatter plot using pillow and PIL
+- Data extraction from https://www.gapminder.org/data/
+- Data cleaning and processing using pandas
+- Data visualization using seaborn
+- Animation of the scatter plot using pillow and PIL
 
 ## Tools Used
 
